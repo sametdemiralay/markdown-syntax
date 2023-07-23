@@ -64,8 +64,3 @@ console.log("Name: %s - Date: %i", name, date);
 1. NUmber List 2
 1. NUmber List 3
 
-<p align="center">Styling with HTML and CSS<hr></p>
-
-<span style="color: green; font-size: 20px;">Title:</span>
-
-<font color="green"> Title2: </font> 
