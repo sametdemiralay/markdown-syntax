@@ -67,3 +67,5 @@ console.log("Name: %s - Date: %i", name, date);
 <p align="center">Styling with HTML and CSS<hr></p>
 
 <span style="color: green; font-size: 20px;">Title:</span>
+
+<font color="green"> Title2: </font> 
