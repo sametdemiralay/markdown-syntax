@@ -25,6 +25,7 @@ _Italic Text_
 <p align="center">Image<hr></p>
 
 ![LCO Mascot](https://learncodeonline.in/mascot.png)
+*image_caption*
 
 <p align="center">Code Screens<hr></p>
 
